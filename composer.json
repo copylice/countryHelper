@@ -2,6 +2,7 @@
   "autoload": {
     "psr-4": {
       "app\\classes\\supportedCountries\\": "classes/supportedСountries",
+      "app\\classes\\exceptions\\": "classes/exceptions",
       "app\\abstractClasses\\": "abstractClasses",
       "app\\interfaces\\": "interfaces"
     }
