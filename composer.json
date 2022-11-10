@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "app\\classes\\supportedCountries\\": "classes/supportedСountries",
+      "app\\abstractClasses\\": "abstractClasses",
+      "app\\interfaces\\": "interfaces"
+    }
+  }
+}
